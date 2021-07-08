@@ -1,0 +1,13 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image:url(img/jogSnake.jpg);
+    flex-direction: column;
+    color:honeydew;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
